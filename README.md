@@ -1,4 +1,3 @@
-# 2021904_A3_IR
 # Deep Neural Networks for Collaborative Filtering Recommendation System
 
 ## Overview
